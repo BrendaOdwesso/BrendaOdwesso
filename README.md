@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrendaOdwesso
 - 👀 I’m interested in data analytics
-- 🌱 I am currently learning Python, R and SQL and Machine Learning (Beginner level)
+- 🌱 I am currently learning SQL, Python and Machine Learning (Beginner level)
 - 📫 How to reach me bodwesso@student.hult.edu
 
 <!---
